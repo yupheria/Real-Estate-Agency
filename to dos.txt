@@ -1,0 +1,3 @@
+view all with bathrooms column 
+search bathrooms forms
+
